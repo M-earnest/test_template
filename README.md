@@ -4,9 +4,6 @@
 ## "What's in this repository?"
 
 This is a template repository for creating online courses in higher education created for the DiLER (Digital Literacy for Empirical Research) project, financed by DIGITELL (Goethe-University Frankfurt).
-
-
-
 You'll find the following:
 
 Find more on how to utilizie this ressource in the online-course X
